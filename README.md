@@ -79,7 +79,7 @@ There are 5 files in this project, the first 4 files can be considered as prepar
 2. **2_Get_Matrix_from_File.cpp**: Reading matrix data from text files to print.
 3. **3_Element_Addition_to_Vectors.cpp**: Unique element addition to vectors.
 4. **4_Pair_Addition_to_Vector_of_Vectors.cpp**: Adding unique pairs to vector of vectors in groups.
-5. **5_Matrix_Element_Grouper.cpp**: The main *Matrix Grouper* program.
+5. **5_Matrix_Element_Grouper.cpp**: The main *Matrix Element Grouper* program.
 
 Along with the given input example in **matrix0.txt** file, there are also 3 additional input files in this project with **matrix#.txt** filenames to test the program.
 
